@@ -1,4 +1,0 @@
-<jDownloader>
-  <method type="extern" os="windows" name="filejokercaptcha_win" services="filejoker.net;" />
-  <command cmd="tools\offlineCaptchaSolver\filejoker.bat" src="tools\offlineCaptchaSolver\input.gif" dst="tools\offlineCaptchaSolver\result.txt" />
-</jDownloader>

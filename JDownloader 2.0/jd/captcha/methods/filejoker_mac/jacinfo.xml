@@ -1,4 +1,0 @@
-<jDownloader>
-  <method type="extern" os="mac" name="filejokercaptcha_mac" services="filejoker.net;" />
-  <command cmd="tools/offlineCaptchaSolver/filejoker.sh" src="tools/offlineCaptchaSolver/input.gif" dst="tools/offlineCaptchaSolver/result.txt" />
-</jDownloader>
